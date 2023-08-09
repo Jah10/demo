@@ -1,5 +1,5 @@
 { 
-  [
+  
   {
     "acPowerKW": "35.05",
     "dcPowerKW": "23.56",
@@ -18,5 +18,5 @@
     "predictedKW": "91.78",
     "performance": "50.15%"
   }
-]
+
 }
