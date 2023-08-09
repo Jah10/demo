@@ -1,1 +1,22 @@
+[
+  {
+    "acPowerKW": "35.05",
+    "dcPowerKW": "23.56",
+    "predictedKW": "92.54",
+    "performance": "49.65%"
+  },
+  {
+    "acPowerKW": "38.12",
+    "dcPowerKW": "24.75",
+    "predictedKW": "94.21",
+    "performance": "51.23%"
+  },
+  {
+    "acPowerKW": "37.30",
+    "dcPowerKW": "25.10",
+    "predictedKW": "91.78",
+    "performance": "50.15%"
+  }
+  // Add more data objects here
+]
 
